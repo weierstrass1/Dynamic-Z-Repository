@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "Dynamic Z Installer/1.0.0": {
+        "runtime": {
+          "Dynamic Z Installer.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Dynamic Z Installer/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

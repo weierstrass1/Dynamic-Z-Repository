@@ -1,0 +1,6 @@
+{
+  "ROMPath": ".\\rom.smc",
+  "ResourceListPath": ".\\ResourceList.txt",
+  "ResourceFolderPath": ".\\Dynamic Resources",
+  "PixiFolderPath": ".\\pixi"
+}
