@@ -5,8 +5,8 @@ incsrc "Options.asm"
 	!addr = $0000
     !rom = $800000
 	!sa1 = 0
-    !Variables = $7F0B44 
-    !Variables2 = $7F9C7B
+    !Variables = $7F9C7B 
+    !Variables2 = !Variables+$0800
     !MaxSprites = $0C
     !SpriteStatus = $14C8
     !SpriteNumberNormal = $7FAB9E
